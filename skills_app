@@ -123,9 +123,10 @@ if user_input in commands_list:
   else:
 
     print("App Is Closed.")
-#updates#1
+
     commit_and_close()
 
 else:
 
   print(f"Sorry This Command \"{user_input}\" Is Not Found")
+#update#1

@@ -1,6 +1,3 @@
-# -----------------------------------------------------
-# -- Databases => SQLite => Create Skills App Part 4 --
-# -----------------------------------------------------
 
 # Import SQLite Module
 import sqlite3
@@ -126,7 +123,7 @@ if user_input in commands_list:
   else:
 
     print("App Is Closed.")
-
+#updates#1
     commit_and_close()
 
 else:
